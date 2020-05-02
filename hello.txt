@@ -1,4 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+This is my second branch i made changes to this branch data .. chnaged it from 
+now i should be doing stash command 
+>>>>>>> Stashed changes
 =======
 This is my second branch i made changes to this branch data .. chnaged it from 
 now i should be doing stash command 
