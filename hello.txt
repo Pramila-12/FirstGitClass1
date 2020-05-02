@@ -1,3 +1,4 @@
+
 This is my second branch i made changes to this branch data .. chnaged it from 
 now i should be doing stash command 
 Try fetch command
@@ -5,3 +6,9 @@ Try fetch command
 Do add local changes as well
 
 Check what is changed with fetch !
+
+This is my second branch i made changes to this branch data .. chnaged it from 
+now i should be doing stash command 
+
+We added more to be used again
+r
